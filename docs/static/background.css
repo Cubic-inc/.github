@@ -1,0 +1,12 @@
+body {
+    background-color: #36393f;
+    background-image: url("/static/Logo.png");
+    background-size: 500px;
+    animation: 30s linear 0s normal none infinite animate;
+    animation-name: animate;
+}
+
+@keyframes animate{
+    from{background-position:0 0}
+    to{background-position:-500px 500px}
+}
