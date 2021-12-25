@@ -6,7 +6,6 @@ function sleep(ms) {
 async function load() {
     await sleep(100)
     window.scrollTo(0, 0)
-    await sleep(500)
     $('.holder').toggleClass('in');
     await sleep(3000)
     document.body.style = ""
