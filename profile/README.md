@@ -1,4 +1,4 @@
-<img src="./logo.png" align="left" width="200"/>
+<img src="../art/logo/logo.gif" align="left" width="200"/>
 
 ### `Cubic Inc`
 \
