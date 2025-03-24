@@ -2,10 +2,8 @@
 
 ### `Cubic Inc`
 
-Cubic Inc is a gaming community on discord. Dedicated to gaming and talking together in a safe online space!
+Cubic Inc is a gaming community on discord.\
+Dedicated to gaming and talking together in a safe online space!
 
-<a href="https://docs.zen-browser.app/contribute/translation">Contribute</a> ·
-<a href="https://www.zen-browser.app">Website</a> ·
-<a href="https://docs.zen-browser.app">Docs</a> ·
-<a href="https://www.zen-browser.app/download">Download</a> ·
-<a href="https://www.zen-browser.app/release-notes/latest">Release Notes</a>
+<a href="https://discord.gg/JjDEPCvj7z">Discord</a>
+<a href="https://github.com/Cubic-inc">GitHub</a>
